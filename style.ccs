@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+}
+
+h1{
+    color: blueviolet;
+    background-image:linear-gradient(blueviolet, red);
+}
+
+h1:hover{
+    color: brown;
+    background-image:linear-gradient(blueviolet, black);
+}
